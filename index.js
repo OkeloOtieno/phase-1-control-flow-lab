@@ -28,12 +28,3 @@ function switchOnCharmFromTip(tipRating){
       return "Bye.";
   }
 }
-
-switch (key) {
-  case value:
-    
-    break;
-
-  default:
-    break;
-}
